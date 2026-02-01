@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @jonigrin
-- 👀 I’m interested in python, math, chess, sudoku (the standard geek)
-- 🌱 I’m currently learning pygame
-- 💞️ I’m looking to collaborate on game for game off 2022
-- 📫 How to reach me discord joni#2264
+- 👀 I’m interested in maths, programming, chess, sudokus and other nerdy stuff
+- 🌱 I’m currently developing my skills in the cyber field (pwn)
+- 📫 How to reach me discord jonigrin
